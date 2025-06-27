@@ -1,0 +1,20 @@
+img {
+    height: 200px;
+    width: 25%;
+}
+
+.infoconWpic
+{
+    display: flex;
+    padding-top: 1%;
+}
+
+.infoTxtPad{
+    padding-left: 1%;
+}
+
+/* Makes the Navigation Bar appear on the side of the screen instead of the top */
+.siteSidebySide
+{
+    display:flex;
+}
