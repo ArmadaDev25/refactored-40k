@@ -13,8 +13,18 @@ img {
     padding-left: 1%;
 }
 
-/* Makes the Navigation Bar appear on the side of the screen instead of the top */
+/* Makes the Navigation Bar appear on the side of the screen instead of the topcon */
 .siteSidebySide
 {
     display:flex;
+}
+.contentSide
+{
+    
+    padding-left: 3%;
+    background-color: rgb(46, 80, 153);
+}
+
+.navBarSide{
+    background-color: aqua;
 }
