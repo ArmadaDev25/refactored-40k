@@ -12,7 +12,12 @@ img {
 .infoTxtPad{
     padding-left: 1%;
 }
-
+body {
+    background-color: rgb(114, 114, 114);
+/*Gets rid of the default Browser Padding*/
+    margin: 0;
+    padding: 0;
+}
 /* Makes the Navigation Bar appear on the side of the screen instead of the topcon */
 .siteSidebySide
 {
@@ -22,9 +27,12 @@ img {
 {
     
     padding-left: 3%;
-    background-color: rgb(46, 80, 153);
+    background-color: rgb(174, 254, 254);
+    height: 100vh; /* Fill the viewport height */
+    width: 100%; /* Fill the full width */
 }
 
 .navBarSide{
-    background-color: aqua;
+    padding-left: .5%;
+    
 }
