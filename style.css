@@ -14,7 +14,7 @@ img {
 }
 body {
     background-color: rgb(114, 114, 114);
-/*Gets rid of the default Browser Padding*/
+    /*Gets rid of the default Browser Padding*/
     margin: 0;
     padding: 0;
 }
