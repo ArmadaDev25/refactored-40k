@@ -1,6 +1,12 @@
-img {
+/* Faction title Banner Image small*/
+.bannerSM {
     height: 200px;
     width: 25%;
+}
+/* Faction title Banner Image Large*/
+.bannerLG{
+    height: 300px;
+    width: 100%;
 }
 
 .infoconWpic
@@ -25,12 +31,11 @@ body {
 }
 .contentSide
 {
-    
-    padding-left: 3%;
     background-color: rgb(174, 254, 254);
     height: 100vh; /* Fill the viewport height */
     width: 100%; /* Fill the full width */
 }
+
 
 .navBarSide{
     padding-left: .5%;
