@@ -22,6 +22,7 @@ This file contains the CSS styling rules
 ![image](https://github.com/user-attachments/assets/6adfa527-4ad3-448f-821b-2e98851663c3)
 ![image](https://github.com/user-attachments/assets/b8d15af5-f89b-47c4-91c7-ba5c9388a276)
 ![image](https://github.com/user-attachments/assets/4f94ac1f-c859-48c0-99df-38f642a25c84)
+![image](https://github.com/user-attachments/assets/8722bd43-df8a-4f1f-b029-649730210f4c)
 
 
 
