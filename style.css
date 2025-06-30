@@ -28,6 +28,16 @@ nav{
     flex-direction: column;
 }
 
+/* Containter formatting for individual pieces of content */
+.contentContainer{
+    background-color: rgb(112, 184, 247);
+    padding: 20px;
+    border-radius: 10px;
+    
+
+    
+}
+
 /*Header Syling*/
 header{
     padding-left: .5%;
