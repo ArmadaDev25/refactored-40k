@@ -20,11 +20,11 @@
     <!-- Navigation Bar-->
     
     <nav>
-        <ul>
-            <li><a href="/index.html">Home</a></li>
-            <li><a href="/ArmyRules.html">Army Rules</a></li>
-            <li><a href="/suggestEdit.html">Suggest An Edit</a></li>
-        </ul>
+    
+        <a href="/index.html">Home</a></li>
+        <a href="/ArmyRules.html">Army Rules</a>
+        <a href="/suggestEdit.html">Suggest An Edit</a>
+    
     </nav>
 
     </header>
@@ -34,6 +34,11 @@
     <!-- Form Setup -->
         <form name="frmSugEdit" id="frmSugEdit" method="post" action="#">
             <input type="text" id="textFactionName" placeholder="Name of Faction">
+            <input type="text" id="textDetachmentName" placeholder="Name of Detachment">
+            <div>
+            <label>Is this suggestion a new rule?</label>
+            <input type="checkbox" id="isNewRule">
+            </div>
 
         </form>
 

@@ -8,11 +8,19 @@
     height: 300px;
     width: 100%;
 }
-/*Styling for the nav bar*/
+/*Styling for the elements on the nav bar*/
 nav a{
     color: aliceblue;
     text-decoration: none;
+    text-align: center;
+    padding: 10px;
 
+}
+
+/*Styling for when the user hovers over a button on the navbar*/
+nav a:hover{
+    background-color: aliceblue;
+    color: rgb(114, 114, 114);
 }
 
 nav{
@@ -23,6 +31,12 @@ nav{
 header{
     padding-left: .5%;
     padding-right: 1%;
+    background-color: rgb(114, 114, 114);
+    margin: 0;
+    height: 100%;
+    /* Makes the bottom padding extend down the entire page */
+    padding-bottom: 100%; 
+   
 
 }
 .infoconWpic
@@ -35,7 +49,7 @@ header{
     padding-left: 1%;
 }
 body {
-    background-color: rgb(114, 114, 114);
+    background-color: rgb(174, 254, 254);
     /*Gets rid of the default Browser Padding*/
     margin: 0;
     padding: 0;
@@ -48,8 +62,9 @@ body {
 .contentSide
 {
     background-color: rgb(174, 254, 254);
-    height: 100vh; /* Fill the viewport height */
+    height: 100%; /* Fill the viewport height */
     width: 100%; /* Fill the full width */
+   
 }
 
 
