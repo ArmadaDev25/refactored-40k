@@ -55,7 +55,7 @@ header{
     display: flex;
     padding-top: 1%;
 }
-
+/*Styling rule that adds Padding to Info Text*/
 .infoTxtPad{
     padding-left: 1%;
 }
