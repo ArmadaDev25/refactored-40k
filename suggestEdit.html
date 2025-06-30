@@ -30,18 +30,23 @@
     </header>
     <!-- Site Content Section-->
      <div class="contentSide" style="display: flex; padding-top: 20%;" >
-        <div class="contentContainer" style="margin: auto;">
+        <div class="contentContainer" style="margin: auto; text-align: center;">
         <h2>Suggest an Edit</h2>
     <!-- Form Setup -->
     
         <form name="frmSugEdit" id="frmSugEdit" method="post" action="#">
+            <div style="display: flex; flex-direction: column; gap: 5px;">
             <input type="text" id="textFactionName" placeholder="Name of Faction">
             <input type="text" id="textDetachmentName" placeholder="Name of Detachment">
             <div>
             <label>Is this suggestion a new rule?</label>
             <input type="checkbox" id="isNewRule">
             </div>
-
+            <!-- User can enter details about the change they want to make here-->
+            <label>Details of Change</label>
+            <textarea name="sugEditText" id="sugEditText" rows="10" col="30"></textarea>
+            <input type="submit" value="Submit Edit For Review">
+            </div>
         </form>
     </div>
     </div>
