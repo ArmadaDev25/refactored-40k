@@ -17,7 +17,7 @@ This page allows the user to fill out a form that allows them to suggest an edit
 ### CSS Files
 style.css <br>
 This file contains the CSS styling rules
-### Screen Shots
+## Screen Shots
 ![image](https://github.com/user-attachments/assets/bcb2e446-bb9a-40fc-bcc9-9c711edaeb94)
 ![image](https://github.com/user-attachments/assets/6adfa527-4ad3-448f-821b-2e98851663c3)
 ![image](https://github.com/user-attachments/assets/b8d15af5-f89b-47c4-91c7-ba5c9388a276)
