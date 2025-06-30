@@ -8,7 +8,23 @@
     height: 300px;
     width: 100%;
 }
+/*Styling for the nav bar*/
+nav a{
+    color: aliceblue;
+    text-decoration: none;
 
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    padding-left: .5%;
+    padding-right: 1%;
+
+}
 .infoconWpic
 {
     display: flex;
@@ -37,7 +53,3 @@ body {
 }
 
 
-.navBarSide{
-    padding-left: .5%;
-    
-}
