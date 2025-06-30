@@ -19,5 +19,9 @@ style.css <br>
 This file contains the CSS styling rules
 ### Screen Shots
 ![image](https://github.com/user-attachments/assets/bcb2e446-bb9a-40fc-bcc9-9c711edaeb94)
+![image](https://github.com/user-attachments/assets/6adfa527-4ad3-448f-821b-2e98851663c3)
+![image](https://github.com/user-attachments/assets/b8d15af5-f89b-47c4-91c7-ba5c9388a276)
+![image](https://github.com/user-attachments/assets/4f94ac1f-c859-48c0-99df-38f642a25c84)
+
 
 
